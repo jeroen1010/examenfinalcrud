@@ -1,0 +1,11 @@
+export 'package:app_dietas/screens/home_screen.dart';
+export 'package:app_dietas/screens/calendario_screen.dart';
+export 'package:app_dietas/screens/login_screen.dart';
+export 'package:app_dietas/screens/registro_screen.dart';
+export 'package:app_dietas/screens/progress_screen.dart';
+export 'package:app_dietas/screens/recomendations_screen.dart';
+export 'package:app_dietas/screens/dieta_dia_screen.dart';
+export 'package:app_dietas/screens/crud_comidas_screen.dart';
+export 'package:app_dietas/screens/crud_objetivos_screen.dart';
+export 'package:app_dietas/screens/recuperar_password_screen.dart';
+export 'package:app_dietas/screens/usuarios_screen.dart';

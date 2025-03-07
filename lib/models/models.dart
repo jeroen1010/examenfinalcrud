@@ -1,0 +1,1 @@
+export 'package:app_dietas/models/menu_option.dart';
